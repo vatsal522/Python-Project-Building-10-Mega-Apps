@@ -1,0 +1,2 @@
+go to cmd-> path of your files
+pyinstaller --onefile --windowed frontend.py
